@@ -1,0 +1,8 @@
+{
+  "name": "AK Sohag - KMP & CMP Mobile Developer",
+  "description": "A sleek, modern bento-style portfolio for AK Sohag, a mobile developer from Sylhet, Bangladesh specializing in KMP and CMP.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
